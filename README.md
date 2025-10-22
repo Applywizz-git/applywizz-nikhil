@@ -85,9 +85,7 @@ Each platform supports one-click deployment directly from your GitHub repository
 
 To connect a custom domain:
 
-Go to your hosting provider’s Domain Settings
 
-Add your domain (e.g., www.nikhilmagan.dev)
 
 Follow DNS setup instructions provided by your hosting service
 
