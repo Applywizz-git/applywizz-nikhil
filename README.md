@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
+Welcome to My Portfolio — Nikhil Magan
 
-## Project info
+Hello! I’m Nikhil Magan, a passionate Frontend Developer who loves crafting modern, responsive, and visually stunning web applications.
+This repository represents my portfolio project — showcasing my technical skills, creativity, and attention to detail.
 
-**URL**: https://lovable.dev/projects/29892469-843e-42a0-b8df-af9aea0c1eb7
+🧩 Tech Stack
 
-## How can I edit this code?
+This portfolio is built with the following technologies:
 
-There are several ways of editing your application.
+Vite – Fast and optimized development build tool
 
-**Use Lovable**
+TypeScript – Ensures type safety and clean code architecture
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/29892469-843e-42a0-b8df-af9aea0c1eb7) and start prompting.
+React – Component-driven, scalable UI development
 
-Changes made via Lovable will be committed automatically to this repo.
+Tailwind CSS – Utility-first styling for responsive design
 
-**Use your preferred IDE**
+shadcn-ui – Accessible and beautifully styled UI components
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+⚙️ Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+To run the project locally, make sure Node.js and npm are installed.
+You can install Node.js easily using nvm
+.
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Step-by-Step Setup
+# 1️⃣ Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# 2️⃣ Navigate into the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3️⃣ Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4️⃣ Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Your local development server will start with live-reloading for instant updates.
 
-**Use GitHub Codespaces**
+🧠 Development Options
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+You can edit and enhance this project using any of the following methods:
 
-## What technologies are used for this project?
+🖥️ Using Your Preferred IDE
 
-This project is built with:
+Open the project in your favorite IDE (VS Code recommended)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Make changes and commit updates directly to your repository
 
-## How can I deploy this project?
+🌐 Using GitHub
 
-Simply open [Lovable](https://lovable.dev/projects/29892469-843e-42a0-b8df-af9aea0c1eb7) and click on Share -> Publish.
+Browse to the desired file(s)
 
-## Can I connect a custom domain to my Lovable project?
+Click the Edit (✏️) button at the top right
 
-Yes, you can!
+Make edits and commit them to your branch
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🚀 Using GitHub Codespaces
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Open your repository on GitHub
+
+Click Code → Codespaces → New Codespace
+
+Start developing instantly in a cloud IDE
+
+Push your changes when done
+
+🌍 Deployment
+
+You can deploy this portfolio easily using platforms like:
+
+Vercel
+
+Netlify
+
+GitHub Pages
+
+Render
+
+Each platform supports one-click deployment directly from your GitHub repository.
+
+🔗 Custom Domain
+
+To connect a custom domain:
+
+Go to your hosting provider’s Domain Settings
+
+Add your domain (e.g., www.nikhilmagan.dev)
+
+Follow DNS setup instructions provided by your hosting service
+
+✨ About Me
+
+I’m Nikhil Magan, a Frontend Developer who thrives on bringing creative ideas to life through code.
+I focus on crafting clean, efficient, and user-centered interfaces using React, Tailwind CSS, and modern web technologies.
+
+📫 Let’s connect:
+Email: nikhilmagan@example.com
+ 
